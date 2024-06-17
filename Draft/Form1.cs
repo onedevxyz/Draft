@@ -1836,7 +1836,7 @@ namespace Draft
 
         private Random random;
         private int previousTipIndex = -1;
-        private string[] tips = { "Made by OneDevXyz (https://onedev.xyz)", "Tip: You can collapse the form by clicking the logo", "Tip: Use Shift + Enter to start a new page", "Tip: You can move the emojis by click-holding any of the emoji buttons for 0.4 seconds", "Tip: The application stores the 10 last texts saved in the history section. To see older ones, click the History Library button (book icon)", "Tip: You can pin history items by right clicking them to prevent them from being removed" }; // Add more tips as needed
+        private string[] tips = { "Made by Watanguy", "Tip: You can collapse the form by clicking the logo", "Tip: Use Shift + Enter to start a new page", "Tip: You can move the emojis by click-holding any of the emoji buttons for 0.4 seconds", "Tip: The application stores the 10 last texts saved in the history section. To see older ones, click the History Library button (book icon)", "Tip: You can pin history items by right clicking them to prevent them from being removed" }; // Add more tips as needed
 
         private void TipTimer_Tick(object sender, EventArgs e)
         {
